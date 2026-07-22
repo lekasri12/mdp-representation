@@ -30,12 +30,19 @@ Don't Carry Umbrella – The person does not carry an umbrella.
 
 ### Reward Function
 Carry Umbrella
+
 Sunny → +5
+
 Cloudy → +3
+
 Rainy → +5
+
 Don't Carry Umbrella
+
 Sunny → −5
+
 Cloudy → −3
+
 Rainy → −10
 
 The weather changes according to the transition probabilities shown in the MDP diagram, and rewards are assigned based on the action taken.
