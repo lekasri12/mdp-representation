@@ -41,7 +41,7 @@ Rainy → −10
 The weather changes according to the transition probabilities shown in the MDP diagram, and rewards are assigned based on the action taken.
 
 ### Graphical Representation:
-
+<img width="1578" height="996" alt="image" src="https://github.com/user-attachments/assets/f5581cba-cb97-4d08-a621-a4740599dbd6" />
 
 ## PYTHON REPRESENTATION:
 ```
